@@ -1,0 +1,1 @@
+{"jobID":"175e8d18-b552-2688-ba40-a0b55974a3c9","spec":{"type":"policy","cause":{"Message":"","User":"sunfmin \u003csunfmin@gmail.com\u003e"},"spec":{"default:deployment/nginx-deployment":{"add":{"automated":"true"},"remove":null}}},"result":null}
